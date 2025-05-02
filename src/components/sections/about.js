@@ -125,65 +125,59 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Python', 'Deep Learning', 'SQL', 'Power BI', 'Machine Learning', 'Data Visualization'];
 
-  return (
-    <StyledAboutSection id="about" ref={revealContainer}>
-      <h2 className="numbered-heading">About Me</h2>
+return (
+  <StyledAboutSection id="about" ref={revealContainer}>
+    <h2 className="numbered-heading">About Me</h2>
 
-      <div className="inner">
-        <StyledText>
-          <div>
-            <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
-            </p>
+    <div className="inner">
+      <StyledText>
+        <div>
+          <p>
+            Hello! I'm Shivam, a Data Science professional currently completing my Master's at the University of Adelaide with a strong GPA of 5.143. My academic journey includes specialized coursework in Deep Learning Fundamentals, Data Taming, and Mining Big Data, where I've developed expertise in analyzing complex datasets.
+          </p>
 
-            <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
+          <p>
+            My technical toolkit includes Python, R, SQL, and I'm particularly proud of my Microsoft Power BI Data Analyst Associate (PL-300) certification, which validates my expertise in data preparation, modeling, visualization, and analysis. I've applied these skills across several projects including an 
+            <a href="https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard" target="_blank" rel="noreferrer">
+              interactive HR Analytics Dashboard
+            </a>, a 
+            <a href="https://github.com/svdexe/Chicken_Disease_Classification" target="_blank" rel="noreferrer">
+              CNN-based image classification system
+            </a>, and an 
+            <a href="https://github.com/svdexe/NLP_TextSummarizer" target="_blank" rel="noreferrer">
+              NLP text summarization application
+            </a>.
+          </p>
 
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
-            </p>
+          <p>
+            I'm particularly interested in the intersection of deep learning and practical business applications. My coursework in Decision Science and experience at Woolworths has given me insight into how data analytics can transform operations and improve customer experiences. I excel at translating technical concepts into actionable business insights.
+          </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
-          </div>
+          <p>Here are some of the key technologies I work with:</p>
+        </div>
 
-          <ul className="skills-list">
-            {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
-          </ul>
-        </StyledText>
+        <ul className="skills-list">
+          {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
+        </ul>
+      </StyledText>
 
-        <StyledPic>
-          <div className="wrapper">
-            <StaticImage
-              className="img"
-              src="../../images/me.jpg"
-              width={500}
-              quality={95}
-              formats={['AUTO', 'WEBP', 'AVIF']}
-              alt="Headshot"
-            />
-          </div>
-        </StyledPic>
-      </div>
-    </StyledAboutSection>
-  );
+      <StyledPic>
+        <div className="wrapper">
+          <StaticImage
+            className="img"
+            src="../../images/weezy.jpg"
+            width={500}
+            quality={95}
+            formats={['AUTO', 'WEBP', 'AVIF']}
+            alt="Headshot"
+          />
+        </div>
+      </StyledPic>
+    </div>
+  </StyledAboutSection>
+);
 };
 
 export default About;

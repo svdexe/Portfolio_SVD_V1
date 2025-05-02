@@ -60,28 +60,25 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
-  const four = (
-    <>
-      <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
-      </p>
-    </>
-  );
+const two = <h2 className="big-heading">Shivam Dali.</h2>;
+const three = <h3 className="big-heading">I transform data into impact.</h3>;
+const four = (
+  <>
+    <p>
+      I'm a Data Science graduate specializing in machine learning and analytics with a strong foundation in Deep Learning fundamentals. 
+      My expertise combines technical proficiency in Python, SQL, and Power BI (PL-300 certified) with business acumen to develop 
+      data-driven solutions. From NLP to computer vision projects, I focus on building end-to-end systems that deliver 
+      actionable insights from complex datasets.
+    </p>
+  </>
+);
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="https://www.linkedin.com/in/shivam-dali-86b0a1201/"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Check out my LinkdIn!
     </a>
   );
 

@@ -18,7 +18,7 @@ Dark mode toggle without the flash of default theme. Important bits:
 
 ## HTML
 
-```html
+
 <!DOCTYPE html>
 <html lang="en" data-theme="light">
   <head>
@@ -40,21 +40,21 @@ Dark mode toggle without the flash of default theme. Important bits:
         aria-label="Activate dark mode"
         title="Activate dark mode"
       >
-        <!--
+        
         <svg class="light-mode">
           <use xlink:href="#sun"></use>
         </svg>
         <svg class="dark-mode">
           <use xlink:href="#moon"></use>
         </svg>
-        -->
+        
       </button>
     </div>
 
     <script src="app.js"></script>
   </body>
 </html>
-```
+
 
 ## CSS Variables
 

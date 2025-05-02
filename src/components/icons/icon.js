@@ -15,7 +15,9 @@ import {
   IconPlayStore,
   IconStar,
   IconTwitter,
+  IconMedium,
 } from '@components/icons';
+import IconX from './X';
 
 const Icon = ({ name }) => {
   switch (name) {
@@ -23,8 +25,6 @@ const Icon = ({ name }) => {
       return <IconAppStore />;
     case 'Bookmark':
       return <IconBookmark />;
-    case 'Codepen':
-      return <IconCodepen />;
     case 'External':
       return <IconExternal />;
     case 'Folder':
@@ -45,8 +45,10 @@ const Icon = ({ name }) => {
       return <IconPlayStore />;
     case 'Star':
       return <IconStar />;
-    case 'Twitter':
-      return <IconTwitter />;
+    case 'X':
+      return <IconX />;
+      case 'medium':
+        return <IconMedium />;
     default:
       return <IconExternal />;
   }
