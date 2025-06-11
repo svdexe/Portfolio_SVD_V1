@@ -167,7 +167,7 @@ return (
         <div className="wrapper">
           <StaticImage
             className="img"
-            src="../../images/weezy.jpg"
+            src="../../images/WeezyX.jpeg"
             width={500}
             quality={95}
             formats={['AUTO', 'WEBP', 'AVIF']}

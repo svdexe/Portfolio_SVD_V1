@@ -78,7 +78,7 @@ const four = (
       href="https://www.linkedin.com/in/shivam-dali-86b0a1201/"
       target="_blank"
       rel="noreferrer">
-      Check out my LinkdIn!
+      Check out my Linkdln!
     </a>
   );
 
