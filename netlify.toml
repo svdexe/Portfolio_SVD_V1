@@ -1,17 +1,14 @@
 [build]
-  command = "yarn install --ignore-optional && yarn build"
+  command = "npm run build"
   publish = "public"
 
 [build.environment]
   NODE_VERSION = "18"
-  YARN_VERSION = "1.22.19"
+  NPM_VERSION = "8"
+  # Disable problematic features
   GATSBY_CPU_COUNT = "1"
-  # Skip problematic packages
   SKIP_PREFLIGHT_CHECK = "true"
-  # Force disable image processing
-  GATSBY_AVIF_DISABLE = "true"
-  GATSBY_SHARP_DISABLE = "true"
 
-# Ignore Sharp installation completely
-[[build.processing]]
-  skip_processing = true
+# Clear any version file warnings
+[build.ignore]
+  command = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF"
