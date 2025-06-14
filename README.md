@@ -34,39 +34,41 @@
 <tr>
 <td width="33%">
 
-### 📊 [HR Analytics Dashboard](https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard)
-<img src="https://via.placeholder.com/400x200/64ffda/0a192f?text=HR+Analytics+Dashboard" alt="HR Analytics Dashboard" width="100%"/>
+<h3>📊 <a href="https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard">HR Analytics Dashboard</a></h3>
+
 
 Interactive dashboard with predictive insights and KPI tracking for workforce planning.
 
-**Stack:** ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![DAX](https://img.shields.io/badge/-DAX-F2C811?style=flat-square)
+<strong>Stack:</strong> <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/-DAX-F2C811?style=flat-square"/>
 
 </td>
 <td width="33%">
 
-### 🐔 [Disease Classification](https://github.com/svdexe/Chicken_Disease_Classification)
-<img src="https://via.placeholder.com/400x200/FF6F00/ffffff?text=AI+Disease+Detection" alt="Chicken Disease Classification" width="100%"/>
+<h3>🐔 <a href="https://github.com/svdexe/Chicken_Disease_Classification">Disease Classification</a></h3>
 
-CNN model for disease detection with **95%+ accuracy** using computer vision.
 
-**Stack:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
+
+CNN model for disease detection with <strong>95%+ accuracy</strong> using computer vision.
+
+<strong>Stack:</strong> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 
 </td>
 <td width="33%">
 
-### 📝 [NLP Text Summarizer](https://github.com/svdexe/NLP_TextSummarizer)
-<img src="https://via.placeholder.com/400x200/663399/ffffff?text=NLP+Text+Summarizer" alt="NLP Text Summarization" width="100%"/>
+<h3>📝 <a href="https://github.com/svdexe/NLP_TextSummarizer">NLP Text Summarizer</a></h3>
+
+
 
 Transformer-based automatic text summarization using BERT architecture.
 
-**Stack:** ![Transformers](https://img.shields.io/badge/-🤗%20Transformers-FFD21E?style=flat-square) ![BERT](https://img.shields.io/badge/-BERT-4285F4?style=flat-square) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+<strong>Stack:</strong> <img src="https://img.shields.io/badge/-🤗%20Transformers-FFD21E?style=flat-square"/> <img src="https://img.shields.io/badge/-BERT-4285F4?style=flat-square"/> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 
 </td>
 </tr>
 </table>
 
 ### 🌐 This Portfolio Website
-<img src="https://via.placeholder.com/800x300/663399/ffffff?text=Portfolio+Website" alt="Portfolio Website" width="100%"/>
+
 
 Modern, responsive data science portfolio with interactive features, theme toggle, and optimized performance.
 
