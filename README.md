@@ -1,104 +1,99 @@
 # 🚀 Shivam Dali | Data Science Portfolio
 
 <div align="center">
-  <img src="static/og.png" alt="Shivam Dali" width="500" />
+  <img src="static/og.png" alt="Shivam Dali" width="900" />
   
   <p>
-    <a href="https://github.com/svdexe/portfolio-website/stargazers">
-      <img src="https://img.shields.io/github/stars/svdexe/portfolio-website?style=for-the-badge&logo=github&color=64ffda&labelColor=0a192f" alt="Stars" />
-    </a>
-    <a href="https://github.com/svdexe/portfolio-website/network/members">
-      <img src="https://img.shields.io/github/forks/svdexe/portfolio-website?style=for-the-badge&logo=github&color=64ffda&labelColor=0a192f" alt="Forks" />
-    </a>
+    <img src="https://img.shields.io/badge/-Data%20Scientist-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Scientist" />
+    <img src="https://img.shields.io/badge/-ML%20Engineer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML Engineer" />
+    <img src="https://img.shields.io/badge/-University%20of%20Adelaide-0077B5?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="University of Adelaide" />
   </p>
-</div>
-
-## 🧠 About Me
-
-I'm a Data Science professional with a Master's from the University of Adelaide, combining technical expertise with business acumen to create data-driven solutions. My focus areas include machine learning, data visualization, and developing end-to-end data pipelines.
-
-## 💻 Features
-
-This portfolio showcases my skills, experience, and projects in an interactive, engaging format:
-
-- **Responsive Design**: Fully responsive web design that works on all devices
-- **Dynamic Content**: Interactive project displays with detailed descriptions
-- **Dark/Light Mode**: Theme toggle for comfortable viewing in any environment
-- **Performance**: Optimized loading and performance metrics
-
-## 🛠️ Technologies
-
-<div align="center">
   
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
-  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat)
-  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=white)
-  
-</div>
-
-## 🌟 Featured Projects
-
-- **[HR Analytics Dashboard](https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard)**: Interactive HR dashboard using SQL and Power BI to analyze employee data
-- **[Chicken Disease Classification](https://github.com/svdexe/Chicken_Disease_Classification)**: CNN model to detect chicken diseases using computer vision
-- **[NLP Text Summarization](https://github.com/svdexe/NLP_TextSummarizer)**: Transformer-based solution for automatic text summarization
-
-## 🔧 Installation & Setup
-
-```bash
-# Clone this repository
-git clone https://github.com/yourusername/portfolio-website.git
-
-# Navigate to the project directory
-cd portfolio-website
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
-```
-
-## 🌐 Deployment
-
-The site is built with Gatsby and can be easily deployed on platforms like Netlify, Vercel, or GitHub Pages.
-
-```bash
-# Generate a production build
-npm run build
-
-# Preview the production build locally
-npm run serve
-```
-
-## 📜 License
-
-This project is based on Brittany Chiang's v4 portfolio template and is available under the MIT License. Please give appropriate credit by linking back to the original work.
-
-## 📬 Contact
-
-Feel free to reach out to me at [shivamdali@gmail.com](mailto:shivamdali@gmail.com) or connect with me on social media:
-
-<div align="center">
-  <a href="https://github.com/svdexe">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shivam-dali-86b0a1201/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@SVD.exe">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"/>
-  </a>
+  <h3>✨ Transforming Data into Intelligence ✨</h3>
 </div>
 
 ---
 
-<p align="center">
-  <i>"Data is the new oil. It's valuable, but if unrefined it cannot really be used."</i>
-  <br>
-  - Clive Humby
-</p>
+## 🧠 About Me • 💻 Portfolio Features • 🛠️ Technologies
+
+**Data Science professional** with Master's from **University of Adelaide** • Combining technical expertise with business acumen • Focus: **Machine Learning**, **Data Visualization**, **End-to-End Pipelines**
+
+**Portfolio Features:** ✅ Responsive Design • ✅ Interactive Projects • ✅ Dark/Light Mode • ✅ Optimized Performance
+
+<div align="center">
+
+**Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat-square)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="33%">
+
+### 📊 [HR Analytics Dashboard](https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard)
+<img src="https://via.placeholder.com/400x200/64ffda/0a192f?text=HR+Analytics+Dashboard" alt="HR Analytics Dashboard" width="100%"/>
+
+Interactive dashboard with predictive insights and KPI tracking for workforce planning.
+
+**Stack:** ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![DAX](https://img.shields.io/badge/-DAX-F2C811?style=flat-square)
+
+</td>
+<td width="33%">
+
+### 🐔 [Disease Classification](https://github.com/svdexe/Chicken_Disease_Classification)
+<img src="https://via.placeholder.com/400x200/FF6F00/ffffff?text=AI+Disease+Detection" alt="Chicken Disease Classification" width="100%"/>
+
+CNN model for disease detection with **95%+ accuracy** using computer vision.
+
+**Stack:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
+
+</td>
+<td width="33%">
+
+### 📝 [NLP Text Summarizer](https://github.com/svdexe/NLP_TextSummarizer)
+<img src="https://via.placeholder.com/400x200/663399/ffffff?text=NLP+Text+Summarizer" alt="NLP Text Summarization" width="100%"/>
+
+Transformer-based automatic text summarization using BERT architecture.
+
+**Stack:** ![Transformers](https://img.shields.io/badge/-🤗%20Transformers-FFD21E?style=flat-square) ![BERT](https://img.shields.io/badge/-BERT-4285F4?style=flat-square) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+### 🌐 This Portfolio Website
+<img src="https://via.placeholder.com/800x300/663399/ffffff?text=Portfolio+Website" alt="Portfolio Website" width="100%"/>
+
+Modern, responsive data science portfolio with interactive features, theme toggle, and optimized performance.
+
+**Tech Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+---
+
+## 🔧 Quick Start • 🌐 Deployment • 🙏 Credits
+
+**Setup:** `git clone https://github.com/svdexe/portfolio-website.git` • `cd portfolio-website && npm install` • `npm start`
+
+**Deploy:** Built with **Gatsby** • Deploy on **Netlify**, **Vercel**, or **GitHub Pages** • `npm run build` • `npm run serve`
+
+**Attribution:** Built upon [Brittany Chiang's v4 template](https://github.com/bchiang7/v4) • Full credit to [brittanychiang.com](https://brittanychiang.com) • MIT License
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+  
+**Open for opportunities • Freelance projects • Collaborations** • **[shivamdali@gmail.com](mailto:shivamdali@gmail.com)**
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/svdexe) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-dali-86b0a1201/) [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@SVD.exe)
+
+<sub><i>"Data is the new oil. It's valuable, but if unrefined it cannot really be used."</i> — Clive Humby</sub>
+
+⭐ **Star this repo if you found it helpful!** ⭐
+
+</div>
