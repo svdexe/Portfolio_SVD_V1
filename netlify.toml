@@ -1,8 +1,17 @@
 [build]
-  command = "npm run build:netlify"
+  command = "yarn install --ignore-optional && yarn build"
   publish = "public"
 
 [build.environment]
   NODE_VERSION = "18"
+  YARN_VERSION = "1.22.19"
   GATSBY_CPU_COUNT = "1"
+  # Skip problematic packages
+  SKIP_PREFLIGHT_CHECK = "true"
+  # Force disable image processing
   GATSBY_AVIF_DISABLE = "true"
+  GATSBY_SHARP_DISABLE = "true"
+
+# Ignore Sharp installation completely
+[[build.processing]]
+  skip_processing = true
