@@ -13,6 +13,8 @@
 </div>
 
 ---
+### 🌐 **[💼 VIEW LIVE PORTFOLIO → shivamdali.com 🚀](https://portfolio-svd-v1-ita0o0lbu-svdexes-projects.vercel.app)**
+---
 
 ## 🧠 About Me • 💻 Portfolio Features • 🛠️ Technologies
 
