@@ -13,9 +13,11 @@
 </div>
 
 ---
-### 🌐 **[💼 VIEW LIVE PORTFOLIO → shivamdali.com 🚀](https://portfolio-svd-v1-ita0o0lbu-svdexes-projects.vercel.app)**
----
+<h3 align="center">
+  🌐 <strong><a href="https://portfolio-svd-v1-ita0o0lbu-svdexes-projects.vercel.app" target="_blank">💼 VIEW LIVE PORTFOLIO → shivamdali.com 🚀</a></strong>
+</h3>
 
+---
 ## 🧠 About Me • 💻 Portfolio Features • 🛠️ Technologies
 
 **Data Science professional** with Master's from **University of Adelaide** • Combining technical expertise with business acumen • Focus: **Machine Learning**, **Data Visualization**, **End-to-End Pipelines**
