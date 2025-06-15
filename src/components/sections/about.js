@@ -125,59 +125,88 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'Deep Learning', 'SQL', 'Power BI', 'Machine Learning', 'Data Visualization'];
+  const skills = [
+    'Python',
+    'Deep Learning',
+    'SQL',
+    'Power BI',
+    'Machine Learning',
+    'Data Visualization',
+  ];
 
-return (
-  <StyledAboutSection id="about" ref={revealContainer}>
-    <h2 className="numbered-heading">About Me</h2>
+  return (
+    <StyledAboutSection id="about" ref={revealContainer}>
+      <h2 className="numbered-heading">About Me</h2>
 
-    <div className="inner">
-      <StyledText>
-        <div>
-          <p>
-            Hello! I'm Shivam, a Data Science professional currently completing my Master's at the University of Adelaide with a strong GPA of 5.143. My academic journey includes specialized coursework in Deep Learning Fundamentals, Data Taming, and Mining Big Data, where I've developed expertise in analyzing complex datasets.
-          </p>
+      <div className="inner">
+        <StyledText>
+          <div>
+            <p>
+              Hello! I'm Shivam, a Data Science professional currently completing my Master's at the
+              University of Adelaide with a strong GPA of 5.143. My academic journey includes
+              specialized coursework in Deep Learning Fundamentals, Data Taming, and Mining Big
+              Data, where I've developed expertise in analyzing complex datasets.
+            </p>
 
-          <p>
-            My technical toolkit includes Python, R, SQL, and I'm particularly proud of my Microsoft Power BI Data Analyst Associate (PL-300) certification, which validates my expertise in data preparation, modeling, visualization, and analysis. I've applied these skills across several projects including an 
-            <a href="https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard" target="_blank" rel="noreferrer">
-              interactive HR Analytics Dashboard
-            </a>, a 
-            <a href="https://github.com/svdexe/Chicken_Disease_Classification" target="_blank" rel="noreferrer">
-              CNN-based image classification system
-            </a>, and an 
-            <a href="https://github.com/svdexe/NLP_TextSummarizer" target="_blank" rel="noreferrer">
-              NLP text summarization application
-            </a>.
-          </p>
+            <p>
+              My technical toolkit includes Python, R, SQL, and I'm particularly proud of my
+              Microsoft Power BI Data Analyst Associate (PL-300) certification, which validates my
+              expertise in data preparation, modeling, visualization, and analysis. I've applied
+              these skills across several projects including an
+              <a
+                href="https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard"
+                target="_blank"
+                rel="noreferrer">
+                interactive HR Analytics Dashboard
+              </a>
+              , a
+              <a
+                href="https://github.com/svdexe/Chicken_Disease_Classification"
+                target="_blank"
+                rel="noreferrer">
+                CNN-based image classification system
+              </a>
+              , and an
+              <a
+                href="https://github.com/svdexe/NLP_TextSummarizer"
+                target="_blank"
+                rel="noreferrer">
+                NLP text summarization application
+              </a>
+              .
+            </p>
 
-          <p>
-            I'm particularly interested in the intersection of deep learning and practical business applications. My coursework in Decision Science and experience at Woolworths has given me insight into how data analytics can transform operations and improve customer experiences. I excel at translating technical concepts into actionable business insights.
-          </p>
+            <p>
+              I'm particularly interested in the intersection of deep learning and practical
+              business applications. My coursework in Decision Science and experience at Woolworths
+              has given me insight into how data analytics can transform operations and improve
+              customer experiences. I excel at translating technical concepts into actionable
+              business insights.
+            </p>
 
-          <p>Here are some of the key technologies I work with:</p>
-        </div>
+            <p>Here are some of the key technologies I work with:</p>
+          </div>
 
-        <ul className="skills-list">
-          {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
-        </ul>
-      </StyledText>
+          <ul className="skills-list">
+            {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
+          </ul>
+        </StyledText>
 
-      <StyledPic>
-        <div className="wrapper">
-          <StaticImage
-            className="img"
-            src="../../images/WeezyX.jpeg"
-            width={500}
-            quality={95}
-            formats={['AUTO', 'WEBP', 'AVIF']}
-            alt="Headshot"
-          />
-        </div>
-      </StyledPic>
-    </div>
-  </StyledAboutSection>
-);
+        <StyledPic>
+          <div className="wrapper">
+            <StaticImage
+              className="img"
+              src="../../images/WeezyX.jpg"
+              width={500}
+              quality={95}
+              formats={['AUTO', 'WEBP', 'AVIF']}
+              alt="Headshot"
+            />
+          </div>
+        </StyledPic>
+      </div>
+    </StyledAboutSection>
+  );
 };
 
 export default About;
