@@ -1,5 +1,5 @@
 [build]
-  command = "yarn build"
+  command = "echo 'Using pre-built files'"
   publish = "public"
 
 [build.environment]
