@@ -1,8 +1,0 @@
-[build]
-  command = "echo 'Using pre-built files'"
-  publish = "public"
-
-[build.environment]
-  NODE_VERSION = "18"
-  NPM_VERSION = "8.19.2"
-  YARN_VERSION = "1.22.19"
