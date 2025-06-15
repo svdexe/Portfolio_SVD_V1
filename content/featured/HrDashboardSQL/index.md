@@ -1,8 +1,8 @@
 ---
 date: '1'
 title: 'HR Analytics Dashboard'
-cover: './HR_dashboard_snip1.png'
-github: 'https://github.com/yourusername/hr-analytics-dashboard'
+cover: './HR_dashboard_snip1.jpg'
+github: 'https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard'
 external: 'https://medium.com/@SVD.exe/unveiling-hr-insights-an-analytics-dashboard-built-with-sql-and-power-bi-822abb6fd2dd'
 tech:
   - SQL
