@@ -1,12 +1,8 @@
 [build]
-  command = "npm install --legacy-peer-deps && npm run build || npm run build"
+  command = "yarn build"
   publish = "public"
 
 [build.environment]
-  NODE_VERSION = "16"
-  GATSBY_CPU_COUNT = "1"
-  SKIP_PREFLIGHT_CHECK = "true"
-  CI = "false"
-  NODE_OPTIONS = "--max-old-space-size=4096"
-  # Ignore build warnings and continue
-  GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES = "false"
+  NODE_VERSION = "18"
+  NPM_VERSION = "8.19.2"
+  YARN_VERSION = "1.22.19"
