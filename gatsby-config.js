@@ -35,6 +35,7 @@ module.exports = {
       options: {
         name: `images`,
         path: `${__dirname}/src/images`,
+        ignore: [`**/*.bak`, `**/*Weezy*`], // Ignore .bak files and any Weezy files
       },
     },
     {
@@ -42,6 +43,7 @@ module.exports = {
       options: {
         name: 'content',
         path: `${__dirname}/content/`,
+        ignore: [`**/*.bak`], // Also ignore .bak files in content folder
       },
     },
     {
