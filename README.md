@@ -14,7 +14,7 @@
 
 ---
 <h3 align="center">
-  🌐 <strong><a href="https://portfolio-svd-v1-ita0o0lbu-svdexes-projects.vercel.app" target="_blank">💼 VIEW LIVE PORTFOLIO → shivamdali.com 🚀</a></strong>
+  🌐 <strong><a href="https://portfolio-svd-v1.vercel.app/" target="_blank">💼 VIEW LIVE PORTFOLIO → shivamdali.com 🚀</a></strong>
 </h3>
 
 ---
