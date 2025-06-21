@@ -1,14 +1,16 @@
 ---
-date: '2017-03-01'
-title: 'Crowd DJ'
-github: 'https://github.com/crowddj/crowddj-react'
+date: '2024-12-01'
+title: 'Adaptive Particle Swarm Optimization Study Part-1'
+github: 'https://github.com/svdexe/Adaptive-Particle-Swarm-Optimization-on-CEC2017'
 external: ''
 tech:
-  - React
-  - Firebase
-  - Spotify API
-company: HackBeanpot 2017
-showInProjects: false
+  - Python
+  - NumPy
+  - Matplotlib
+  - Scipy
+  - CEC2017 Benchmark
+company: University of Adelaide
+showInProjects: true
 ---
 
-Web app that allows people to crowdsource a party's music queue. Allows people to request songs, upvote songs, rate songs, etc. so the DJ can see how the crowd is feeling and queue songs accordingly. Won Best UI/UX Design at Hackbeanpot 2017.
+Comprehensive comparative analysis of Standard PSO vs novel Adaptive PSO (APSO) algorithm across the CEC2017 benchmark suite. Features dynamic parameter adjustment, stagnation detection, and reset mechanisms that consistently outperform standard PSO across 30 test functions in 10-100 dimensions. Includes innovative two-stage bin packing application and demonstrates 15-40% improvement in solution quality with enhanced scalability for complex optimization problems.

@@ -1,14 +1,17 @@
 ---
-date: '2018-12-01'
-title: 'Devoted Health'
-github: ''
-external: 'https://www.devoted.com/'
+date: '2024-11-01'
+title: 'Clustering Algorithm Performance Analysis'
+github: 'https://github.com/svdexe/DS_RP_Part-B_ClusteringAnalysis'
+external: ''
 tech:
-  - Gatsby
-  - TypeScript
-  - Algolia
-company: 'Upstatement'
-showInProjects: false
+  - Python
+  - NumPy
+  - Scikit-learn
+  - Matplotlib
+  - Jupyter
+  - PSO
+company: University of Adelaide
+showInProjects: true
 ---
 
-A site for a revolutionary healthcare company, including an Algolia instant search integration
+Advanced implementation analyzing PSO variants for clustering optimization across 5 diverse datasets (4-784 dimensions). Features hybrid and adaptive PSO approaches with comprehensive preprocessing framework and sophisticated statistical validation. Demonstrates 100% reliability success rate vs standard PSO's 48%, with 40% stability improvements and 30% higher accuracy through dynamic parameter adjustment and stagnation detection mechanisms.
