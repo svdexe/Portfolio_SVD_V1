@@ -1,6 +1,6 @@
 ---
 date: '2024-12-01'
-title: 'Adaptive Particle Swarm Optimization Study Part-1'
+title: 'Adaptive Particle Swarm Optimization Study Part-A'
 github: 'https://github.com/svdexe/Adaptive-Particle-Swarm-Optimization-on-CEC2017'
 external: ''
 tech:

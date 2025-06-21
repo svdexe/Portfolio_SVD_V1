@@ -1,6 +1,6 @@
 ---
 date: '2024-11-01'
-title: 'Clustering Algorithm Performance Analysis'
+title: 'Adaptive Particle Swarm Optimization Study Part - B'
 github: 'https://github.com/svdexe/DS_RP_Part-B_ClusteringAnalysis'
 external: ''
 tech:
